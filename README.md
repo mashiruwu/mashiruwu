@@ -1,6 +1,6 @@
 ### Hello World, I'm Diego Henrick - aka [mashiruwu] 🧑‍💻
 
-## I'm a Developer, Gamer and Life Hacker 
+## I'm a Developer
 
 -🏢 I'm an iOS Engineer and Entrepreneur <br />
 - I'm a Apple Developer Academy alumni <br />
