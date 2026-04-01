@@ -16,4 +16,4 @@
 
 ---
 [mashiruwu]: https://www.youtube.com/channel/UCykbC0qOAACJfaOO2NrEjtg
-[ivibing]: https://ivbing.dev
+[ivibing]: https://ivibing.dev
