@@ -5,7 +5,7 @@
 -🏢 I'm an iOS Engineer and Entrepreneur <br />
 - I'm a Apple Developer Academy alumni <br />
 -🏛️ I'm an undergraduate Informational Systems at PUCPR<br />
--🎯 2026 Goals: Launch my biggest project: [ivibing] <br />
+-🎯 2026 Goal: Launch my biggest project: [ivibing] <br />
 -🕹️ I love music, k-dramas and old stuff
 
 ### Connect with me:
