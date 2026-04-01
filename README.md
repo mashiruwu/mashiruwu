@@ -1,12 +1,12 @@
-### Hello World, I'm Diego Candido - aka [mashiruwu] 🧑‍💻
+### Hello World, I'm Diego Henrick - aka [mashiruwu] 🧑‍💻
 
 ## I'm a Developer, Gamer and Life Hacker 
 
 -🏢 I'm an iOS Engineer and Entrepreneur <br />
-- I'm enrolled on Apple Developer Academy, learning and developing iOS apps <br />
--🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Informational Systems at PUCPR<br />
--🎯 2024 Goals: Reach 1000 users in any of my apps <br />
--🕹️ I love music, animes and video games 
+- I'm a Apple Developer Academy alumni <br />
+-🏛️ I'm an undergraduate Informational Systems at PUCPR<br />
+-🎯 2026 Goals: Launch my biggest project: ivbing.dev <br />
+-🕹️ I love music, k-dramas and old stuff
 
 ### Connect with me:
 
